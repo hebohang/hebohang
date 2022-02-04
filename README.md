@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 This is a record for my progress. I'm a MOer(CMO Silver Medal).
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hebohang)](https://github.com/anuraghazra/github-readme-stats)
 
