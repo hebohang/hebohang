@@ -1,8 +1,8 @@
 ### Hi there 👋 This is a record for my progress. I'm a MOer(CMO Silver Medal).
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hebohang)](https://github.com/anuraghazra/github-readme-stats)
+[![hebohang's GitHub stats](./profile/stats.svg)](https://github.com/stats-organization/github-readme-stats-action)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hebohang)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](./profile/top-langs.svg)](https://github.com/stats-organization/github-readme-stats-action)
 
 <!--
 **hebohang/hebohang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
